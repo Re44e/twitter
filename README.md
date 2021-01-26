@@ -4,7 +4,7 @@
 #
 **Description**
 
-In this basic example of integration with twitter, it is possible to simulate the operations of posting and searching for tweets.
+In this basic example of integration, it is possible to simulate the operations of posting and searching for tweets.
 
 
 
