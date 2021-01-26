@@ -12,6 +12,7 @@ token_secret = 'token secret'
 instance = Twitter(key, secret, token_key, token_secret)
 
 # Post Tweets
+
 baseURL = 'your base URL'
 post = 'your tweet'
 response = instance.tweet(post, baseURL)
