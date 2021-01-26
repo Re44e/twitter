@@ -28,3 +28,4 @@ class Twitter:
     response = json.loads(decode)
     twittes = response['statuses']
     return twittes
+  
