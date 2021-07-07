@@ -1,5 +1,5 @@
 
-<h3>Basic prototype for integration with Twitter.</h3>
+<h3>Basic prototype for integration with Twitter</h3>
 
 #
 **Description**
